@@ -117,7 +117,7 @@ const element = <img src={user.avatarUrl}></img>;
 const element = <img src={user.avatarUrl} />;
 ```
 
-Но JSX-теги могут и содержать дочерние элементы: 
+Но JSX-теги могут содержать и дочерние элементы: 
 
 ```js
 const element = (
